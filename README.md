@@ -1,2 +1,2 @@
 # capstone_project
-## This my read me file to explain what I am doing in this project
+## This is my read me file to explain what I am doing in this project
